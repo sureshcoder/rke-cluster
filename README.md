@@ -1,6 +1,6 @@
 **
 
-# Create multi-node Kubernetes Cluster on MacBook
+# Create multi-node Kubernetes Cluster on Laptop
 
 ## Prerequisite
 
